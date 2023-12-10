@@ -287,3 +287,4 @@ Interactive Data Visualization
 ## Summary
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
+![Dashboard 2 (2)](https://github.com/Arisulo/dsc-Model-Makes-AccidentRates/assets/145289186/ac8ad356-79ae-46bc-8ab2-a9f73764b89b)
